@@ -1,1 +1,1 @@
-# New fetures add to branch1
+# New features add to branch1
